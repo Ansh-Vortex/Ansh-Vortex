@@ -1,8 +1,8 @@
 # Ansh Gupta | Full Stack Developer & Automation Engineer
 
-![Profile Views](https://komarev.com/ghpvc/?username=AnshGupta&color=blueviolet&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=Ansh-Vortex&color=blueviolet&style=flat)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/highoncodes)
-[![GitHub followers](https://img.shields.io/github/followers/AnshGupta?label=Follow&style=social)](https://github.com/AnshGupta)
+[![GitHub followers](https://img.shields.io/github/followers/Ansh-Vortex?label=Follow&style=social)](https://github.com/Ansh-Vortex)
 
 ## 🚀 About Me
 
