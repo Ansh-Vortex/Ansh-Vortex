@@ -63,9 +63,9 @@ Self-taught **Full Stack Developer from India** building **Telegram bots, web ap
 
 ## 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnshGupta&show_icons=true&layout=compact&hide_border=true&theme=tokyonight)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnshGupta&show_icons=true&theme=tokyonight&hide_border=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AnshGupta&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ansh-Vortex&show_icons=true&layout=compact&hide_border=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ansh-Vortex&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ansh-Vortex&theme=tokyonight&hide_border=true)
 
 ---
 
