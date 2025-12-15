@@ -66,10 +66,11 @@ Self-taught **Full Stack Developer from India** building **Telegram bots, web ap
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ansh-Vortex&show_icons=true&layout=compact&hide_border=true&theme=tokyonight)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ansh-Vortex&show_icons=true&theme=tokyonight&hide_border=true)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ansh-Vortex&show_icons=true&theme=tokyonight&hide_border=true)
+
 
 ---
 
 📬 **Contact & Work**
 - Telegram: https://t.me/highoncodes  
+- Instagram: https://instagram/anshgotnolife
 - Services: Web Dev • Bots • APIs • Automation • OSINT
