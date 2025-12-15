@@ -2,6 +2,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Ansh-Vortex&color=blueviolet&style=flat)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/highoncodes)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/anshgotnolife/)
 [![GitHub followers](https://img.shields.io/github/followers/Ansh-Vortex?label=Follow&style=social)](https://github.com/Ansh-Vortex)
 
 ## 🚀 About Me
@@ -65,7 +66,7 @@ Self-taught **Full Stack Developer from India** building **Telegram bots, web ap
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ansh-Vortex&show_icons=true&layout=compact&hide_border=true&theme=tokyonight)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ansh-Vortex&show_icons=true&theme=tokyonight&hide_border=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ansh-Vortex&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ansh-Vortex&show_icons=true&theme=tokyonight&hide_border=true)
 
 ---
 
