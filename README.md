@@ -45,14 +45,23 @@ Self-taught Full Stack Developer from India building Telegram bots, web applicat
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Ansh-Vortex&theme=radical&hide_border=true" />
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ansh-Vortex&show_icons=true&theme=radical&hide_border=true" />
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ansh-Vortex&layout=compact&theme=radical&hide_border=true&langs_count=8" />
-
+  <table>
+    <tr>
+      <td>
+        <img src="https://streak-stats.demolab.com?user=Ansh-Vortex&theme=radical&hide_border=true" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ansh-Vortex&show_icons=true&theme=radical&hide_border=true" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ansh-Vortex&layout=compact&theme=radical&hide_border=true&langs_count=8" />
+      </td>
+    </tr>
+  </table>
 </div>
+
 
 
 ## 🐍 Contribution Snake
