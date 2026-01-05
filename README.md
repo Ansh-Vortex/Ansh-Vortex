@@ -10,7 +10,7 @@
 
 ---
 
-## 🧐 About Me
+## 🚀 About Me
 
 Self-taught Full Stack Developer from India building Telegram bots, web applications, APIs, OSINT tools, and automation systems. I focus on creating scalable, production-ready solutions used by real users.
 
