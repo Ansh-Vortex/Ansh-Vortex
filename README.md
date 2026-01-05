@@ -16,7 +16,7 @@ Self-taught Full Stack Developer from India building Telegram bots, web applicat
 
 - 🔭 I'm currently working on **Web Apps, Telegram Bots, APIs & Open Projects**
 - 🌱 I'm currently learning **Cloud Architecture, DevOps & System Design**
-- 💬 Ask me about ** JavaScript, Node.js, Python, APIs, Web Development & Automation**
+- 💬 Ask me about **JavaScript, Node.js, Python, APIs, Web Development & Automation**
 - 👯 I'm looking to collaborate on **Open Source Projects**
 - 🎮 Hobbies: **Music, Chess, Reading Books**
 - 📫 How to reach me: **anshguptavortex@gmail.com**
