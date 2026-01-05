@@ -48,7 +48,7 @@ Self-taught Full Stack Developer from India building Telegram bots, web applicat
   <table>
     <tr>
       <td><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ansh-Vortex&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" /></td>
-      <td><img src="https://streak-stats.demolab.com/?user=Ansh-Vortex&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></td>
+      <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=Ansh-Vortex&theme=radical&hide_border=true" /> alt="GitHub Streak" /></td>
     </tr>
     <tr>
       <td colspan="2" align="center"><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ansh-Vortex&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" /></td>
