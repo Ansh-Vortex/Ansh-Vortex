@@ -66,63 +66,19 @@ Self-taught Full Stack Developer from India building Telegram bots, web applicat
 </p>
 
 ## 💼 Featured Projects
+<p align="center">
+  <a href="https://github.com/Ansh-Vortex/Readme-Maker"><img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Ansh-Vortex&repo=Readme-Maker&theme=radical&hide_border=true" /></a>
+  <a href="https://github.com/Ansh-Vortex/Custom-Birthday-OS"><img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Ansh-Vortex&repo=Custom-Birthday-OS&theme=radical&hide_border=true" /></a>
+  <a href="https://github.com/Ansh-Vortex/Game-Analyzer"><img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Ansh-Vortex&repo=Game-Analyzer&theme=radical&hide_border=true" /></a>
+  <a href="https://github.com/Ansh-Vortex/LoveLens"><img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Ansh-Vortex&repo=LoveLens&theme=radical&hide_border=true" /></a>
+</p>
 
-<div align="center">
-  <table>
-    <!-- Row 1 -->
-    <tr>
-      <td>
-        <a href="https://github.com/Ansh-Vortex/Readme-Maker">
-          <img width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Ansh-Vortex&repo=Readme-Maker&theme=radical&hide_border=true" />
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Ansh-Vortex/Custom-Birthday-OS">
-          <img width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Ansh-Vortex&repo=Custom-Birthday-OS&theme=radical&hide_border=true" />
-        </a>
-      </td>
-    </tr>
+| Project | Description | Link |
+|:--------|:------------|:----:|
+| **Optivai** | Your Personal AI-Tutor | [![Visit](https://img.shields.io/badge/Visit-4285F4?style=flat-square&logo=googlechrome&logoColor=white)](https://optivai.in) |
+| **Readme Maker** | Make Professional GitHub Readme Effortlessly | [![Visit](https://img.shields.io/badge/Visit-4285F4?style=flat-square&logo=googlechrome&logoColor=white)](https://readme-maker.anshvortex.me/) |
+| **Osint Tool** | A Powerful Telegram Osint Bot | [![Visit](https://img.shields.io/badge/Visit-4285F4?style=flat-square&logo=googlechrome&logoColor=white)](https://t.me/vortexpaidosint_bot) |
 
-    <!-- Row 2 -->
-    <tr>
-      <td>
-        <a href="https://github.com/Ansh-Vortex/Game-Analyzer">
-          <img width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Ansh-Vortex&repo=Game-Analyzer&theme=radical&hide_border=true" />
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Ansh-Vortex/LoveLens">
-          <img width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Ansh-Vortex&repo=LoveLens&theme=radical&hide_border=true" />
-        </a>
-      </td>
-    </tr>
-
-    <!-- FULL WIDTH ROWS -->
-    <tr>
-      <td colspan="2">
-        <a href="https://optivai.in">
-          <img width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Ansh-Vortex&repo=Optivai&theme=radical&hide_border=true" />
-        </a>
-      </td>
-    </tr>
-
-    <tr>
-      <td colspan="2">
-        <a href="https://readme-maker.anshvortex.me/">
-          <img width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Ansh-Vortex&repo=Readme-Maker&theme=radical&hide_border=true" />
-        </a>
-      </td>
-    </tr>
-
-    <tr>
-      <td colspan="2">
-        <a href="https://t.me/vortexpaidosint_bot">
-          <img width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Ansh-Vortex&repo=Osint-Tool&theme=radical&hide_border=true" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
 ## 💭 Dev Quote
 
 <p align="center">
