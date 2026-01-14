@@ -75,10 +75,10 @@ Self-taught Full Stack Developer from India building Telegram bots, web applicat
 
 ## 💼 Featured Projects
 <p align="center">
-  <a href="https://github.com/Ansh-Vortex/Readme-Maker"><img width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Ansh-Vortex&repo=Readme-Maker&theme=radical&hide_border=true" /></a>
-  <a href="https://github.com/Ansh-Vortex/Custom-Birthday-OS"><img width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Ansh-Vortex&repo=Portfolio-V2&theme=radical&hide_border=true" /></a>
-  <a href="https://github.com/Ansh-Vortex/Game-Analyzer"><img width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Ansh-Vortex&repo=Game-Analyzer&theme=radical&hide_border=true" /></a>
-  <a href="https://github.com/Ansh-Vortex/LoveLens"><img width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Ansh-Vortex&repo=LoveLens&theme=radical&hide_border=true" /></a>
+  <a href="https://github.com/Ansh-Vortex/Readme-Maker"><img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Ansh-Vortex&repo=Readme-Maker&theme=radical&hide_border=true" /></a>
+  <a href="https://github.com/Ansh-Vortex/Custom-Birthday-OS"><img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Ansh-Vortex&repo=Portfolio-V2&theme=radical&hide_border=true" /></a>
+  <a href="https://github.com/Ansh-Vortex/Game-Analyzer"><img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Ansh-Vortex&repo=Game-Analyzer&theme=radical&hide_border=true" /></a>
+  <a href="https://github.com/Ansh-Vortex/LoveLens"><img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Ansh-Vortex&repo=LoveLens&theme=radical&hide_border=true" /></a>
 </p>
 
 | Project | Description | Link |
