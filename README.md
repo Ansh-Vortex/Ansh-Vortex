@@ -33,7 +33,7 @@ Self-taught Full Stack Developer from India building Telegram bots, web applicat
 ### ⚛️ Frameworks & Libraries
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxtjs,angular,svelte,nodejs,express,nestjs,django,flask,fastapi&theme=dark" alt="skills" /><br /><img src="https://skillicons.dev/icons?i=react,tailwind,pytorch,threejs&theme=dark" alt="skills" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxtjs,angular,svelte,nodejs,express,nestjs,django,flask,fastapi&theme=dark" alt="skills" /><br /><img src="https://skillicons.dev/icons?i=tailwind,pytorch,threejs&theme=dark" alt="skills" />
 </p>
 
 ### 🛠 Tools & Platforms
